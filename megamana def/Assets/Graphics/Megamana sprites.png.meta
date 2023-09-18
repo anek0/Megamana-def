@@ -1,0 +1,2741 @@
+fileFormatVersion: 2
+guid: 44cd3383541ed7c49a4444caec392272
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Megamana sprites_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 515
+        width: 8
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9cf4b791d20604babac87a7be22347
+      internalID: 493319752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 515
+        width: 22
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de00282b67c64bc4a91c10c246cd6738
+      internalID: -147547087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 515
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561c4299469c0d74eaed164f7a3d351d
+      internalID: 1739085892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 515
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441f4ea77fd90d74790ccbd5f3b4d898
+      internalID: 2071321039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 515
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128bc797d160a9e4295865693454820a
+      internalID: -1311041223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 515
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4e664d4a1f8f3428161da2820f7b3e
+      internalID: 423482565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 515
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1757f32cf40bc04ca53b79555ee1fb0
+      internalID: 300661913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 515
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8fa77400d2a814280df0207da31cd0
+      internalID: -138519338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 515
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8e58a72bf1ce24d84a70393f7363c3
+      internalID: 357409939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 515
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8363e42e178bef845a02689550b41f54
+      internalID: -1199193611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 514
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd640b8df6027741aec5a0feecf2e66
+      internalID: -442267864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 514
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d754d9a95310c72478393ea1e4e5d3f2
+      internalID: 278890481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 514
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bada52e5dd7b341956fe04944b1591
+      internalID: -1682386735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 514
+        width: 32
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb1acbdeea753d44a33d7bc7fa617d4
+      internalID: 1204037055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_14
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 514
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c6129d8c6ce7b44ab3d8f8bed296c6
+      internalID: 1998190599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_15
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 514
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545f5c84495ec7a4da1cb83a65a8b315
+      internalID: 606848730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 514
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4f5e2e016deea4e90b9108f32dc68e
+      internalID: -1623030175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 514
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b1dbc3504f4934d85d3fcef358ba26
+      internalID: -488320346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 514
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684f4ebdb585eb04aaaf3398694ad062
+      internalID: -1961297559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_19
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 514
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3547828625a60f24fa9c16a411ec90b2
+      internalID: 27566631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_20
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 514
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae79b49e5e7cb55419711c8222f17a5c
+      internalID: 1196992224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 457
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d587c53d9f46e2d4cb24e7be05349183
+      internalID: -846391268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 457
+        width: 17
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad779358c2204274e970d023712096ea
+      internalID: -42482865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 457
+        width: 19
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d9cb24e8255141a8c29090df10275
+      internalID: -1025041284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 457
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8030cc94bb9634f95f46edb3fecf9c
+      internalID: -759701595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 457
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83adcd670acb6ed4ea02ce6f15e1c070
+      internalID: -484966801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 457
+        width: 24
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c800c2c9b560479d12387dae464e6
+      internalID: 503247240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 457
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e5fdc6bbf81d44832e834dbab6e1a
+      internalID: 1351615265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 449
+        width: 48
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d164e9b8624b24f9ea21205d94fc68
+      internalID: 1731535600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 462
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b189ae75f98194b49b8bb63da962a016
+      internalID: -175188801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_30
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 462
+        width: 32
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a608360db93995648a0239ec8f18a2b4
+      internalID: 1759666769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_31
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 462
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5742b398d7cc717418a6435412d113d5
+      internalID: 199216344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_32
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 462
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe2c38731b513546a830a14c1ad5a5c
+      internalID: -445325267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_33
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 462
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f76cd97825bf784693370cd9df64ecd
+      internalID: -214586632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_34
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 462
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4d1faf093a68f4193669bef27547fa
+      internalID: 526956410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_35
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 462
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca16e074e5daa94eb0f4324669a4ff3
+      internalID: -1232790667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_36
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 462
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de559fbfa18b6244ca290188e8a2a4e5
+      internalID: -1923561327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_37
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 462
+        width: 37
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fdca1f444105a41b6f691c6de80514
+      internalID: 2008903314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_38
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 462
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34b30e2f2c8b0946a7f4ed52b9b7c00
+      internalID: -2013962913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_39
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 409
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4681f7d529f944e995cc8fb3f3c866
+      internalID: -1980941378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 409
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd764b684dcf4fc4993b6e9ea5f49288
+      internalID: -276913398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 409
+        width: 27
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f746e58076b77e469c7a285812996e7
+      internalID: -1073271279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 409
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b107e222bebfba4ebf02d67f537fe9b
+      internalID: 1561162880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 409
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad01721ef8d23945b8ccd2252dea6f9
+      internalID: 255555193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 409
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f87e98ef90520a469428ad23698b2d5
+      internalID: -1521194276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 409
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4836053468030794e938adbca2444c47
+      internalID: -1778364882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_46
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 409
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2906d0331c28042ae73d20c570f37b
+      internalID: 25397577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_47
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 409
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5eded3a182b954b8560118b978326d
+      internalID: -900997053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_48
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 410
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00551c2d21d71a48bc6949f45c2e6cd
+      internalID: 1325883093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_49
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 410
+        width: 49
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836e8fe6ef5e0724caeb2d0afbffe4eb
+      internalID: -855681819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_50
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 404
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf870b12107f3d4b8457aa71dc7735d
+      internalID: 1313768139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_51
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 404
+        width: 29
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7ca5a3efc5ee4a805836eaad7597b
+      internalID: 496498715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_52
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 404
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e84f1a1f0ba31a45bebb29d240b01c8
+      internalID: -825397985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_53
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 404
+        width: 29
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61edafef4ced66e479eb1ee41526b2d5
+      internalID: -1888664048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_54
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 404
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdb626c3369ac747ada88cd72d3d4cf
+      internalID: -2054919087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_55
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 366
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f2840ef1f79d34f97651936be6ddd9
+      internalID: -832417609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 366
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7b8b08e6a0eb044bd513d9259309e0
+      internalID: -412137300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 366
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d06c64214a9d644a4471d071025c2a
+      internalID: -364829672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 366
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba288f3be57116345bf42fdcbac86e30
+      internalID: -936889789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_59
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 366
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7427c87850698d0448b9ef1ced556e4d
+      internalID: 1602601924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_60
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 366
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3138b82a4d91348a40c0a4454940be
+      internalID: -172683553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_61
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 366
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a0f4f08e0c9a4eba4c5429efe0fc9
+      internalID: 622160937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_62
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 366
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea9db796fede34e88202c1326cfd19
+      internalID: 835398734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_63
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 366
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2e8a060a336ee4eb018ffaa9e3b296
+      internalID: 1755723285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_64
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 290
+        width: 98
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00677a13379ea9c448c63be6700354ce
+      internalID: -1452772304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_65
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 205
+        width: 112
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56df259109812a42ac1862d710c2cc7
+      internalID: 1403100099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_66
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 313
+        width: 25
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f239c5abe54f042af5c7754ba9fe34
+      internalID: 1813568882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 313
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28cfaec722a906499a03db97d4faa02
+      internalID: 775522649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_68
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 313
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc72d498c17ca4fa384fc0fbee7369
+      internalID: 613430240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 313
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9022d2c92d22b444a92c640bb0cd7e3f
+      internalID: -2133511194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_70
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 313
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883e7a0ea887df4d8533150b4b9855b
+      internalID: -1352884575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_71
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 307
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e73c088d7ce64dbfcc2ae3dedb94c
+      internalID: -1809490374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_72
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 307
+        width: 18
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5430c9bfff020fc4aae887ac0d7d10ba
+      internalID: -247056116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 310
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc7ecb2eebe4284386d11bb0747510e
+      internalID: 724281627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_74
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 310
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4746e76bd5f233147aa6d6b63942adfe
+      internalID: 1387701961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_75
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 307
+        width: 18
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbea43768f4ee6438840cb483d496f3
+      internalID: -1824069713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_76
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 319
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea34b6ca886fa7459fd4b7645d9c5a5
+      internalID: -1193729569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 324
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cea549e7ee4764c864438f36ab47cf
+      internalID: -1758086144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_78
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 308
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c27b55edd4e954c8b7aa0c9725467e
+      internalID: -109881651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_79
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 266
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fd0c1060835d94fb9436825f4cd3c3
+      internalID: -1623734997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_80
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 265
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1896c5102c2c8145922db2123396882
+      internalID: 489247132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_81
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 267
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89905f8f368b5142a1a9bc54dacf380
+      internalID: -1811967061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_82
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 266
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb198b4e23b574b984683b3c54d88c
+      internalID: -734033246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_83
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 267
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed4453d874d15479df395343928f06
+      internalID: -1607978440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_84
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 215
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dedae3583a7e0b4f82e76bcec2274cb
+      internalID: -322444267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 215
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320060748ffe4e84fbc76275b4472f49
+      internalID: 375882327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_86
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 215
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139eee3d85378544ba0bd480520a24af
+      internalID: -1455103769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 211
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e732ec7b030d4bb7a0a0066ddb205
+      internalID: -778922848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_88
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 215
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288f44471cb6d1e42a5a1e77e9593529
+      internalID: -1153543545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_89
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 211
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d080f2e4f1ee6ba47867c7f9996ffa0d
+      internalID: 2117456380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_90
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 215
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aa307aec386d542b883a34b22263b9
+      internalID: 1622377756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_91
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 211
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcdd756e39b8a448af30dbd8a368d3c
+      internalID: 1268432122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_92
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 215
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c186a487955294791a0c27d032e337
+      internalID: 1402641147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_93
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 215
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becaa45d16a792945b0e4ea315a4fc76
+      internalID: -1546609162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_94
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 215
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d776eec5c6d973a45a3b1a4de8afe61b
+      internalID: -1422743670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_95
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 218
+        width: 51
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c6b21aab7b0d7448d654aca3d946d6
+      internalID: -630517639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_96
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 184
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baccdb8f6dbe1224b9b13f28571e7b95
+      internalID: -1779757869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_97
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 180
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f73e13be8b4a94e8b07cf733f21420
+      internalID: -1922695132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_98
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 175
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344b5a431faef074cbeaf7f3cd52fd1b
+      internalID: -1935340058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_99
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 180
+        width: 28
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f914bda8ad1404b98e61dbb840bbba
+      internalID: 1932199278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_100
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 183
+        width: 32
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78816d7532de994b9b5fe872f901f81
+      internalID: -1172319305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_101
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 181
+        width: 38
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86357848cd5776242b846316cac6d91f
+      internalID: 773942546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_102
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 180
+        width: 40
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f48e4fb77166a74a9258ce091920fb4
+      internalID: 1545176157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_103
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 177
+        width: 36
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed7e2348f795d44bdb26027107e38f
+      internalID: 1560587482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_104
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 140
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad30e127822e37545b6d7733fb855e65
+      internalID: -356000604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_105
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 142
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba97d32f5a5dd94cb262b38a7fad0b8
+      internalID: -2134200414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_106
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 136
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f6e13ad9ac62479fadacb10359e77
+      internalID: 569864203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_107
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 133
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143c8e9ea1c12524d91990ca1237bfa1
+      internalID: 1435197791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_108
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 132
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f798e161d4a743923f0e8018dadf1
+      internalID: -1922463522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_109
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 110
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c1bd503545034b9888256526814a8
+      internalID: -341914044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_110
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 91
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a524517e686fe4da78099e324e6fc3
+      internalID: 1827716805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_111
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 90
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a79fd257151df49893550c242c001a
+      internalID: 1842197521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_112
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 90
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec39c5726f45694fb00726452042567
+      internalID: 2061320994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_113
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 95
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a487b92efce8144eb9d92b9c6668a5d
+      internalID: -1447664993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_114
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 40
+        width: 75
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567dc3eff2ba91040b7b1bc5583c3991
+      internalID: 832794955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_115
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 59
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a56ea3667cab441b62059ccfc532f7
+      internalID: 1314814457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_116
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 42
+        width: 40
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f625d5453c2e8f43bd3eff52f433001
+      internalID: -1296198080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_117
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 41
+        width: 42
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb974cfe02f7d64ba3d92b50d545327
+      internalID: 1240199216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megamana sprites_118
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 49
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b466721d5ce1a964bad529a5a445f766
+      internalID: 748219743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Megamana sprites_110: 1827716805
+      Megamana sprites_114: 832794955
+      Megamana sprites_117: 1240199216
+      Megamana sprites_10: -442267864
+      Megamana sprites_57: -364829672
+      Megamana sprites_68: 613430240
+      Megamana sprites_18: -1961297559
+      Megamana sprites_24: -759701595
+      Megamana sprites_70: -1352884575
+      Megamana sprites_15: 606848730
+      Megamana sprites_56: -412137300
+      Megamana sprites_101: 773942546
+      Megamana sprites_8: 357409939
+      Megamana sprites_76: -1193729569
+      Megamana sprites_78: -109881651
+      Megamana sprites_1: -147547087
+      Megamana sprites_97: -1922695132
+      Megamana sprites_87: -778922848
+      Megamana sprites_62: 835398734
+      Megamana sprites_77: -1758086144
+      Megamana sprites_7: -138519338
+      Megamana sprites_113: -1447664993
+      Megamana sprites_64: -1452772304
+      Megamana sprites_103: 1560587482
+      Megamana sprites_75: -1824069713
+      Megamana sprites_82: -734033246
+      Megamana sprites_40: -276913398
+      Megamana sprites_5: 423482565
+      Megamana sprites_94: -1422743670
+      Megamana sprites_41: -1073271279
+      Megamana sprites_85: 375882327
+      Megamana sprites_80: 489247132
+      Megamana sprites_13: 1204037055
+      Megamana sprites_12: -1682386735
+      Megamana sprites_14: 1998190599
+      Megamana sprites_54: -2054919087
+      Megamana sprites_89: 2117456380
+      Megamana sprites_27: 1351615265
+      Megamana sprites_19: 27566631
+      Megamana sprites_22: -42482865
+      Megamana sprites_28: 1731535600
+      Megamana sprites_99: 1932199278
+      Megamana sprites_35: -1232790667
+      Megamana sprites_88: -1153543545
+      Megamana sprites_49: -855681819
+      Megamana sprites_44: -1521194276
+      Megamana sprites_42: 1561162880
+      Megamana sprites_51: 496498715
+      Megamana sprites_16: -1623030175
+      Megamana sprites_96: -1779757869
+      Megamana sprites_93: -1546609162
+      Megamana sprites_17: -488320346
+      Megamana sprites_47: -900997053
+      Megamana sprites_34: 526956410
+      Megamana sprites_25: -484966801
+      Megamana sprites_39: -1980941378
+      Megamana sprites_2: 1739085892
+      Megamana sprites_92: 1402641147
+      Megamana sprites_95: -630517639
+      Megamana sprites_46: 25397577
+      Megamana sprites_79: -1623734997
+      Megamana sprites_65: 1403100099
+      Megamana sprites_31: 199216344
+      Megamana sprites_38: -2013962913
+      Megamana sprites_45: -1778364882
+      Megamana sprites_107: 1435197791
+      Megamana sprites_74: 1387701961
+      Megamana sprites_118: 748219743
+      Megamana sprites_36: -1923561327
+      Megamana sprites_58: -936889789
+      Megamana sprites_86: -1455103769
+      Megamana sprites_83: -1607978440
+      Megamana sprites_6: 300661913
+      Megamana sprites_55: -832417609
+      Megamana sprites_112: 2061320994
+      Megamana sprites_3: 2071321039
+      Megamana sprites_43: 255555193
+      Megamana sprites_48: 1325883093
+      Megamana sprites_106: 569864203
+      Megamana sprites_67: 775522649
+      Megamana sprites_11: 278890481
+      Megamana sprites_71: -1809490374
+      Megamana sprites_69: -2133511194
+      Megamana sprites_61: 622160937
+      Megamana sprites_20: 1196992224
+      Megamana sprites_52: -825397985
+      Megamana sprites_98: -1935340058
+      Megamana sprites_90: 1622377756
+      Megamana sprites_37: 2008903314
+      Megamana sprites_81: -1811967061
+      Megamana sprites_115: 1314814457
+      Megamana sprites_4: -1311041223
+      Megamana sprites_0: 493319752
+      Megamana sprites_9: -1199193611
+      Megamana sprites_21: -846391268
+      Megamana sprites_104: -356000604
+      Megamana sprites_32: -445325267
+      Megamana sprites_33: -214586632
+      Megamana sprites_72: -247056116
+      Megamana sprites_111: 1842197521
+      Megamana sprites_109: -341914044
+      Megamana sprites_108: -1922463522
+      Megamana sprites_66: 1813568882
+      Megamana sprites_91: 1268432122
+      Megamana sprites_53: -1888664048
+      Megamana sprites_59: 1602601924
+      Megamana sprites_60: -172683553
+      Megamana sprites_23: -1025041284
+      Megamana sprites_50: 1313768139
+      Megamana sprites_84: -322444267
+      Megamana sprites_105: -2134200414
+      Megamana sprites_26: 503247240
+      Megamana sprites_102: 1545176157
+      Megamana sprites_100: -1172319305
+      Megamana sprites_30: 1759666769
+      Megamana sprites_116: -1296198080
+      Megamana sprites_63: 1755723285
+      Megamana sprites_73: 724281627
+      Megamana sprites_29: -175188801
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
