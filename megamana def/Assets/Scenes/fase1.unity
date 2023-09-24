@@ -3394,7 +3394,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1208595289}
-  - {fileID: 1774827607}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4771,7 +4770,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1774827607}
   - component: {fileID: 1774827608}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: chao
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4786,12 +4785,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1774827606}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.41045713, y: -0.84046715, z: 0.049524657}
+  m_LocalPosition: {x: -5.396457, y: 0.031532824, z: 0.08623499}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1051919235}
-  m_RootOrder: 1
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1774827608
 BoxCollider2D:
@@ -6510,8 +6509,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a42e4a3663f1d114eb51c6272dbd552e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 3
-  jumpSpeed: 3
+  moveSpeed: 1.5
+  jumpSpeed: 3.7
 --- !u!1 &1945376182
 GameObject:
   m_ObjectHideFlags: 0
